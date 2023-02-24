@@ -1,0 +1,32 @@
+------------|Buy private cloud logs: https://t.me/+PyCIp8LPkfRhYWRk|------------
+Profil: https://www.facebook.com/profile.php?id=100088831909258
+--------------| Cookies (Json)|--------------
+[
+  {
+    "domain": ".facebook.com",
+    "expirationDate": null,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "xs",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "40%3AqdM0cOrxr-bEdw%3A2%3A1672781746%3A-1%3A6669%3A%3AAcX7E5TnKTr8SX26E4piCZdT8BIR3UWUm4fYd6T8Ew"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": null,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "c_user",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "100088831909258"
+  }
+]
+---------------------------------------------
